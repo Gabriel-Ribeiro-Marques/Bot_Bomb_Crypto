@@ -1,0 +1,15 @@
+Treasure_Hunt:
+886
+595
+Button_Heros:
+632
+197
+Button_Work:
+632
+197
+Button_Reset:
+632
+632
+Button_Exit:
+632
+197
